@@ -54,7 +54,7 @@ The DFA starts at the initial state, transitions through the segment states vali
 ## Implementation:
 
 The implementation can be seen in the official page of LeetCode or in this repository in the solution.py archive
-LeetCode Solution URL: https://leetcode.com/problems/validate-ip-address/solutions/5199162/solution-using-regex/
+LeetCode Solution URL: https://leetcode.com/problems/validate-ip-address/solutions/5252156/regex-for-the-win/
 
 
 Test:
