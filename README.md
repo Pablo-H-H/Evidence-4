@@ -22,7 +22,8 @@ Problem Decomposition: Validation is divided into individual segments, simplifyi
 Clear Definition of States and Transitions: Each DFA state corresponds to a specific part of the input being validated, and the transitions clearly define the validation rules.
 Ease of Implementation and Understanding: Using DFA allows a clear and efficient implementation of the validation algorithm, also facilitating the understanding and maintenance of the code.
 
-![Diagrama sin título-IPv4 Regex drawio](https://github.com/Pablo-H-H/Evidence-4/assets/111140061/f3934b60-0755-45ad-a820-da0e6164e11d)
+![Diagrama sin título-IPv4 Regex](https://github.com/Pablo-H-H/Evidence-4/assets/111140061/63ee06a4-da3d-4097-88a9-115d9ea62486)
+
 
 IPv4 validation
 DFA structure for IPv4:
